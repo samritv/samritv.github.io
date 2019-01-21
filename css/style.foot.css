@@ -67,8 +67,9 @@
 
 #span1-desktop table {
 
-    table-width: 1920px;
-    height: auto;
+    max-width: 100%;
+    overflow: auto;
     line-height: 2.25;
+    display: block;
 
 }
