@@ -65,9 +65,9 @@
 
 }
 
-#span1-mobile tr {
+#span1-desktop table {
 
-    width: 1920px;
+    table-width: 1920px;
     height: auto;
     line-height: 2.25;
 
