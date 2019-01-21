@@ -62,6 +62,7 @@
 
     height: 35px;
     width: 35px;
+    float: right;
 
 }
 
@@ -69,7 +70,7 @@
 
     max-width: 100%;
     overflow: auto;
-    line-height: 2.25;
+    line-height: 5;
     display: block;
 
 }
