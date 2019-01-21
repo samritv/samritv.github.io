@@ -1,0 +1,66 @@
+.footer {
+
+	text-align: center;
+	border-top: 1px solid #000;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+    height: auto;
+	padding-top: 23px;
+
+}
+
+.footer a {
+
+	color: black;
+	text-decoration: underline;
+
+}
+
+.footer a:hover {
+
+	text-decoration: none;
+
+}
+
+#span1-desktop {
+    
+    padding-bottom: 23px;
+    margin-bottom: 23px;
+
+    
+}
+
+@media(max-width:568px) {
+    
+    #span1-desktop {
+        
+        display: none;
+        
+    }
+    
+}
+
+#span1-mobile {
+    
+    border-bottom: 1px solid black;
+    padding-bottom: 23px;
+    margin-bottom: 23px;
+    
+}
+
+@media(min-width:568px) {
+    
+    #span1-mobile {
+        
+        display: none;
+        
+    }
+
+}
+
+#span1-desktop img {
+
+    height: 35px;
+    width: 35px;
+
+}
