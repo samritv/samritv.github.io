@@ -102,3 +102,21 @@
        width: 33.33%;
 
 }
+
+#span1-desktop table tr td:nth-child(1) {
+
+       width: 33.33%;
+
+}
+
+#span1-desktop table tr td:nth-child(2) {
+
+       width: 33.33%;
+
+}
+
+#span1-desktop table tr td:nth-child(3) {
+
+       width: 33.33%;
+
+}
