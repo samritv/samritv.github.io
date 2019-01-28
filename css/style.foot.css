@@ -63,14 +63,16 @@
     height: 35px;
     width: 35px;
     float: right;
+    margin-bottom: 0px;
+    paddin-bottom: 0px;
 
 }
 
 #span1-desktop table {
 
     max-width: 100%;
-    overflow: auto;
-    line-height: 5;
+    text-align: center;
+    line-height: 2.5;
     display: block;
 
 }
