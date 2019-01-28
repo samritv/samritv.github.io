@@ -78,12 +78,14 @@
 #span1-desktop table tr th:ntr-child(1) {
 
     margin-right: 450px;
+    float: left;
 
 }
 
 #span1-desktop table tr th:ntr-child(3) {
 
     margin-left: 450px;
+    float: right;
 
 }
 
