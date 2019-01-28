@@ -72,29 +72,15 @@
 
 #span1-desktop table {
 
-    table-layout: fixed;
-    border-collapse: collapse;
-    width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
 
 }
 
 .wide {
 
-    width: 480px;
-    text-align: left;
-
-}
-
-#col-td1 {
-
-    text-align: left;
-    width: 100%;
-
-}
-
-#col-td2 {
-
-    text-align: right;
-    width: 100%;
+  width: 450px;
 
 }
