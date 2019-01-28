@@ -75,6 +75,18 @@
 
 }
 
+#span1-desktop table tr th:ntr-child(1) {
+
+    margin-right: 200px;
+
+}
+
+#span1-desktop table tr th:ntr-child(3) {
+
+    margin-left: 200px;
+
+}
+
 #span1-desktop table tr th {
 
        width: 360px;
