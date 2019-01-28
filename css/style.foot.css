@@ -88,11 +88,13 @@
 #col-td1 {
 
     text-align: left;
+    width: 100%;
 
 }
 
 #col-td2 {
 
     text-align: right;
+    width: 100%;
 
 }
