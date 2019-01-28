@@ -70,16 +70,6 @@
 
 #span1-desktop table {
 
-    max-width: 100%;
-    text-align: center;
-    line-height: 2.5;
-    display: block;
-
-
-}
-
-#span1-desktop table {
-
         table-layout:fixed;
         width: 100%;
 
