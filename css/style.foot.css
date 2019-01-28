@@ -75,4 +75,30 @@
     line-height: 2.5;
     display: block;
 
+
+}
+
+#span1-desktop table {
+
+        table-layout:fixed;
+        width: 100%;
+
+}
+
+#span1-desktop table tr th:nth-child(1) {
+
+       width: 33.33%;
+
+}
+
+#span1-desktop table tr th:nth-child(2) {
+
+       width: 33.33%;
+
+}
+
+#span1-desktop table tr th:nth-child(3) {
+
+       width: 33.33%;
+
 }
