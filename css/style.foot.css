@@ -70,33 +70,14 @@
 
 #span1-desktop table {
 
-        table-layout:fixed;
-        width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
 
 }
 
-#span1-desktop table tr th:ntr-child(1) {
+.wide {
 
-    margin-right: 450px;
-    float: left;
-
-}
-
-#span1-desktop table tr th:ntr-child(3) {
-
-    margin-left: 450px;
-    float: right;
-
-}
-
-#span1-desktop table tr th {
-
-       width: 360px;
-
-}
-
-#span1-desktop table tr td {
-
-       width: 360px;
+    width: 150px;
 
 }
