@@ -6,7 +6,7 @@
 	margin: 0px 0px 0px 0px;
     height: auto;
 	padding-top: 23px;
-    line-height: 1;
+    line-height: 1.75;
 
 }
 
@@ -38,14 +38,14 @@
         display: none;
         
     }
-    
-}
 
-#span1-mobile {
+    #span1-mobile {
     
-    border-bottom: 1px solid black;
-    padding-bottom: 23px;
-    margin-bottom: 23px;
+        border-bottom: 1px solid black;
+        padding-bottom: 23px;
+        margin-bottom: 23px;
+    
+    }
     
 }
 
