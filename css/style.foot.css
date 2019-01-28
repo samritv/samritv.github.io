@@ -81,5 +81,18 @@
 .wide {
 
     width: 360px;
+    text-align: left;
+
+}
+
+#col-td1 {
+
+    text-align: left;
+
+}
+
+#col-td2 {
+
+    text-align: right;
 
 }
