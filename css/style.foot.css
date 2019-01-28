@@ -75,37 +75,7 @@
 
 }
 
-#span1-desktop table tr th:nth-child(1) {
-
-       width: 33.33%;
-
-}
-
-#span1-desktop table tr th:nth-child(2) {
-
-       width: 33.33%;
-
-}
-
-#span1-desktop table tr th:nth-child(3) {
-
-       width: 33.33%;
-
-}
-
-#span1-desktop table tr td:nth-child(1) {
-
-       width: 33.33%;
-
-}
-
-#span1-desktop table tr td:nth-child(2) {
-
-       width: 33.33%;
-
-}
-
-#span1-desktop table tr td:nth-child(3) {
+#span1-desktop table tr th {
 
        width: 33.33%;
 
