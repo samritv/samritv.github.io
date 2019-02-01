@@ -95,6 +95,17 @@
 
 }
 
+#wrapper {
+
+  display: block;
+  width: 850px;
+  background: #fff;
+  margin: 0 auto;
+  padding: 10px 17px;
+  -webkit-box-shadow: 2px 2px 3px -1px rgba(0,0,0,0.35);
+
+}
+
 #keywords {
   margin: 0 auto;
   font-size: 1.2em;
@@ -104,7 +115,7 @@
 
 #keywords thead {
   cursor: pointer;
-  background: #8a0303;
+  background: #c9dff0;
 }
 
 #keywords thead tr th { 
@@ -120,7 +131,7 @@
 }
 
 #keywords thead tr th.headerSortUp, #keywords thead tr th.headerSortDown {
-  background: #333333;
+  background: #acc8dd;
 }
 
 #keywords thead tr th.headerSortUp span {
